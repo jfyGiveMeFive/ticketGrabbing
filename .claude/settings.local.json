@@ -2,7 +2,17 @@
   "permissions": {
     "allow": [
       "Bash(ls:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(ssh:*)",
+      "Bash(git config:*)",
+      "Bash(ssh-add:*)",
+      "Bash(echo:*)",
+      "Bash(~/.ssh/config)",
+      "Bash(chmod:*)",
+      "Bash(gh auth:*)"
     ]
   }
 }
