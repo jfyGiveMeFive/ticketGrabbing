@@ -1,2 +1,5 @@
 chromedriver*
 conf/conf.ini
+*.pyc
+.claude/
+.DS_Store
